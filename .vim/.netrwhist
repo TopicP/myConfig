@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Volumes/storage1/projects/usg7_max10'
+let g:netrw_dirhist_2='/Volumes/storage1/projects'
+let g:netrw_dirhist_1='/Volumes/storage1/projects/usg_demo_max10'
